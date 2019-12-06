@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3df9895b-b44f-4e71-8576-d554cfb9a9f7" name="Default Changelist" comment="切图操作">
+    <list default="true" id="3df9895b-b44f-4e71-8576-d554cfb9a9f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -39,7 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -70,7 +71,10 @@
       <updated>1575424903796</updated>
       <workItem from="1575424904955" duration="2486000" />
       <workItem from="1575427728421" duration="16060000" />
-      <workItem from="1575507960149" duration="17877000" />
+      <workItem from="1575507960149" duration="20090000" />
+      <workItem from="1575536039007" duration="348000" />
+      <workItem from="1575536423434" duration="1163000" />
+      <workItem from="1575594540452" duration="2553000" />
     </task>
     <task id="LOCAL-00001" summary="切图操作">
       <created>1575522687834</created>
@@ -100,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575528735251</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="切图操作">
+      <created>1575533819686</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575533819687</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,10 +126,14 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="261" y="30" key="#Notifications/0.30.1536.834@0.30.1536.834" timestamp="1575533386321" />
-    <state x="283" y="30" key="CommitChangelistDialog2" timestamp="1575529207394">
+    <state x="223" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575536348008">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="283" y="30" key="CommitChangelistDialog2/0.30.1536.834@0.30.1536.834" timestamp="1575529207394" />
+    <state x="223" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1536.834@0.30.1536.834" timestamp="1575536348008" />
+    <state x="283" y="30" key="CommitChangelistDialog2" timestamp="1575533817946">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="283" y="30" key="CommitChangelistDialog2/0.30.1536.834@0.30.1536.834" timestamp="1575533817946" />
     <state x="147" y="91" key="DiffContextDialog" timestamp="1575524333573">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
@@ -131,10 +146,10 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="560" y="339" width="445" height="215" key="Github.CreateGistDialog/0.30.1536.834@0.30.1536.834" timestamp="1575527096369" />
-    <state x="620" y="312" width="325" height="270" key="Github.ShareDialog" timestamp="1575527116074">
+    <state x="367" y="340" width="325" height="270" key="Github.ShareDialog" timestamp="1575597364813">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="620" y="312" width="325" height="270" key="Github.ShareDialog/0.30.1536.834@0.30.1536.834" timestamp="1575527116074" />
+    <state x="367" y="340" width="325" height="270" key="Github.ShareDialog/0.30.1536.834@0.30.1536.834" timestamp="1575597364813" />
     <state x="553" y="84" key="Github.UntrackedFilesDialog" timestamp="1575516120083">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
@@ -143,31 +158,39 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="531" y="88" key="RollbackChangesDialog/0.30.1536.834@0.30.1536.834" timestamp="1575529204508" />
-    <state x="-83" y="30" key="SettingsEditor" timestamp="1575529142044">
+    <state x="-241" y="30" key="SettingsEditor" timestamp="1575596706785">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="368" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575427707906" />
-    <state x="-83" y="30" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1575529142044" />
+    <state x="-241" y="30" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1575596706785" />
     <state x="536" y="85" key="VCS.ChangeListViewerDialog" timestamp="1575528119579">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="536" y="85" key="VCS.ChangeListViewerDialog/0.30.1536.834@0.30.1536.834" timestamp="1575528119579" />
-    <state x="261" y="112" key="Vcs.Push.Dialog.v2" timestamp="1575532759381">
+    <state x="384" y="104" key="Vcs.Push.Dialog.v2" timestamp="1575597376938">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="261" y="112" key="Vcs.Push.Dialog.v2/0.30.1536.834@0.30.1536.834" timestamp="1575532759381" />
+    <state x="384" y="104" key="Vcs.Push.Dialog.v2/0.30.1536.834@0.30.1536.834" timestamp="1575597376938" />
     <state x="93" y="123" width="1350" height="648" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1575525679146">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="93" y="123" width="1350" height="648" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.30.1536.834@0.30.1536.834" timestamp="1575525679146" />
-    <state x="388" y="192" key="git4idea.merge.GitPullDialog" timestamp="1575529163763">
+    <state x="526" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575535797263">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="388" y="192" key="git4idea.merge.GitPullDialog/0.30.1536.834@0.30.1536.834" timestamp="1575529163763" />
-    <state x="580" y="279" key="git4idea.rebase.GitRebaseDialog" timestamp="1575528155701">
+    <state x="526" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.1536.834@0.30.1536.834" timestamp="1575535797263" />
+    <state x="388" y="192" key="git4idea.merge.GitPullDialog" timestamp="1575533842279">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="580" y="279" key="git4idea.rebase.GitRebaseDialog/0.30.1536.834@0.30.1536.834" timestamp="1575528155701" />
+    <state x="388" y="192" key="git4idea.merge.GitPullDialog/0.30.1536.834@0.30.1536.834" timestamp="1575533842279" />
+    <state x="580" y="279" key="git4idea.rebase.GitRebaseDialog" timestamp="1575536701676">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="580" y="279" key="git4idea.rebase.GitRebaseDialog/0.30.1536.834@0.30.1536.834" timestamp="1575536701676" />
+    <state x="451" y="126" key="git4idea.rebase.GitRebaseEditor" timestamp="1575536714637">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="451" y="126" key="git4idea.rebase.GitRebaseEditor/0.30.1536.834@0.30.1536.834" timestamp="1575536714637" />
     <state x="561" y="187" key="svn.repositoryBrowser" timestamp="1575527083146">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
